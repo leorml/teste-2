@@ -2,6 +2,7 @@ teste git 02
 asdasdasd 
 teste para main
 
-
+dsjkfhjksdhf
 
 teste vscode to ramificação01
+esse teste deve subir para a main
